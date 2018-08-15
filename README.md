@@ -1,2 +1,2 @@
 # appium
-appium搭建
+appium-python搭建
